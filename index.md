@@ -3,6 +3,10 @@
 This is the humble beginning of a website for the PEN &amp; PAD revival community - https://pen-pad-revival.github.io
 
 ## [Interviews](https://github.com/pen-pad-revival/interviews/)
+
+### A conversation with Alan Rector about PEN & PAD, recorded in 4 parts, October 21, 2021
+Alan Rector, a central researcher in the PEN & PAD approach to electronic health records, in a conversation with Erik Sundvall and Daniel Karlsson
+
 1. Intro & Demo of PEN & PAD - Now available at [https://youtu.be/PGEAmJJ4frU](https://youtu.be/PGEAmJJ4frU)
     * Who is Alan Rector and how did he get involved in this?
     * What was PEN&PAD? (Including live demo of the PEN & PAD-based Clinergy user interface)
@@ -14,6 +18,7 @@ This is the humble beginning of a website for the PEN &amp; PAD revival communit
 4. Lessons learned – how we’d do it today + some advice to those entering the health infomatics space *- Waiting to be edited...*
     * ...
 
+### Interview updates
 To be notified of new uploads, subscribe to the pen-pad-revival YouTube channel [https://www.youtube.com/channel/UCWAejpmEBhz7gGutdYUNJyw/](https://www.youtube.com/channel/UCWAejpmEBhz7gGutdYUNJyw/)
 
 ## Snomed CT Expo 2021 talk
