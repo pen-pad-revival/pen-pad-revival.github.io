@@ -1,4 +1,4 @@
-# Join the PEN & PAD revieval community
+# Join the PEN & PAD revieval community!
 
 This is the humble beginning of a website for the PEN &amp; PAD revival community - https://pen-pad-revival.github.io
 
