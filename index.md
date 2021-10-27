@@ -3,7 +3,7 @@
 This is the humble beginning of a website for the PEN &amp; PAD revival community - https://pen-pad-revival.github.io
 
 ## [Interviews](https://github.com/pen-pad-revival/interviews/)
-1. Intro & Demo of PEN & PAD *- Now available at https://youtu.be/PGEAmJJ4frU *
+1. Intro & Demo of PEN & PAD - Now available at [https://youtu.be/PGEAmJJ4frU](https://youtu.be/PGEAmJJ4frU)
     * Who is Alan Rector and how did he get involved in this?
     * What was PEN&PAD? (Including live demo of the PEN & PAD-based Clinergy user interface)
     * Where did it lead?
@@ -14,11 +14,11 @@ This is the humble beginning of a website for the PEN &amp; PAD revival communit
 4. Lessons learned – how we’d do it today + some advice to those entering the health infomatics space *- Waiting to be edited...*
     * ...
 
-To be notified of new uploads, subscribe to the pen-pad-revival YouTube channel https://www.youtube.com/channel/UCWAejpmEBhz7gGutdYUNJyw/
+To be notified of new uploads, subscribe to the pen-pad-revival YouTube channel [https://www.youtube.com/channel/UCWAejpmEBhz7gGutdYUNJyw/](https://www.youtube.com/channel/UCWAejpmEBhz7gGutdYUNJyw/)
 
 ## Snomed CT Expo 2021 talk
 * At [SNOMED CT Expo 2021](https://www.snomed.org/news-and-events/events/snomedct-expo) Daniel Karlsson and Erik Sundvall presented the PEN & PAD inspired talk "Context-aware interactive use of SNOMED CT and terminology services in openEHR-based electronic health records"
-    * Slides: https://docs.google.com/presentation/d/1BQxf-2NGhoFjlYEdRCdNoBWtUAS1qpn0/edit?usp=sharing&ouid=112660550613841635682&rtpof=true&sd=true 
+    * Slides: [https://docs.google.com/presentation/d/1BQxf-2NGhoFjlYEdRCdNoBWtUAS1qpn0/edit?usp=sharing&ouid=112660550613841635682&rtpof=true&sd=true](https://docs.google.com/presentation/d/1BQxf-2NGhoFjlYEdRCdNoBWtUAS1qpn0/edit?usp=sharing&ouid=112660550613841635682&rtpof=true&sd=true) 
     * Video recording will be available at the SNOMED CT Expo website]
 
 ## Help wanted
