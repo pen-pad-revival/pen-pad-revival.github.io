@@ -2,4 +2,4 @@
 
 This is the humble beginning of a website for the PEN &amp; PAD revival community - https://pen-pad-revival.github.io
 
-Edit the file index.md in this gh-pages branch to update the website.
+Edit the file index.md to update the website.
