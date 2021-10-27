@@ -2,7 +2,7 @@
 
 This is the humble beginning of a website for the PEN &amp; PAD revival community - https://pen-pad-revival.github.io
 
-## Interviews https://github.com/pen-pad-revival/interviews/
+## [Interviews](https://github.com/pen-pad-revival/interviews/)
 1. Intro & Demo of PEN & PAD *- Now available at https://youtu.be/PGEAmJJ4frU*
     * Who is Alan Rector and how did he get involved in this?
     * What was PEN&PAD? (Including live demo of the PEN & PAD-based Clinergy user interface)
