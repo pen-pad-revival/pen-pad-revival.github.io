@@ -15,9 +15,11 @@ This is the humble beginning of a website for the PEN &amp; PAD revival communit
     * ...
 
 ## Snomed CT Expo 2021 talk
-* ...
+* At (SNOMED CT Expo 2021)[https://www.snomed.org/news-and-events/events/snomedct-expo] Daniel Karlsson and Erik Sundvall presented teh PEN & PAD inspired talk "Context-aware interactive use of SNOMED CT and terminology services in openEHR-based electronic health records"
+    * Slides: https://docs.google.com/presentation/d/1BQxf-2NGhoFjlYEdRCdNoBWtUAS1qpn0/edit?usp=sharing&ouid=112660550613841635682&rtpof=true&sd=true 
+    * Video recording will be available at the SNOMED CT Expo website
 
 ## Help wanted
-* Experd/nerd needed for exploring and documenting how the old windows XP based CLinergy demo can be run in emulators on Linux and Windows 10
-* Website editor
-* 
+* Experd/nerd-competence needed for exploring and documenting how the old windows XP based Clinergy demo can be installed and run in emulators on Linux and Windows 10+
+* Website editing
+* Creation of pedagogical material from interviews and PEN&PAD-related papers (focused video snippets, transcriptions, summaries, tutorials etc.) in order to inspire a new generation of developers, clinicians and informaticians to revive the PEN & PAD approach using the tools available today.
