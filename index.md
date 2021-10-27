@@ -29,9 +29,9 @@ To be notified of new uploads, subscribe to the pen-pad-revival YouTube channel 
 ## Challenge
 This can be suitable as student projects, hackathon challenges, personal learning projects etc. 
 * Use low/no-code tools to recreate appraches from PEN & PAD... 
-* ...then fork this repository, and in the "gh-pages" branch create a subdirectory of your own under the challenge subdirectory with a readme.md file including a description (and links to your project site if available)
+* ...then fork this repository, and create a subdirectory of your own under the `challenge` subdirectory with a readme.md file including a description (and links to your project site if available)
 * Add other relevant description-related files (like screenshots) in your subdirectory.
-* Then edit the main readme file to include a describing title with a link to your subdirectory
+* Then edit the readme file in the `challenge` directory to include a describing title with a link to your subdirectory
 * Finally submit a pull request so that we can include your addition here.
 
 Ask a local GIT-nerd for help if the process above sounds too complicated.
