@@ -22,10 +22,9 @@ Alan Rector, a central researcher in the PEN&PAD approach to electronic health r
 To be notified of new uploads, subscribe to the pen-pad-revival YouTube channel [https://www.youtube.com/channel/UCWAejpmEBhz7gGutdYUNJyw/](https://www.youtube.com/channel/UCWAejpmEBhz7gGutdYUNJyw/)
 
 ## Papers and links
-* [The PEN&PAD data entry system: from prototype to practical system
-J Kirby 1, A L Rector](https://pubmed.ncbi.nlm.nih.gov/8947757/)
+* [The PEN&PAD data entry system: from prototype to practical system](https://pubmed.ncbi.nlm.nih.gov/8947757/) J Kirby, A L Rector. Proc AMIA Annu Fall Symp. 1996;709-13.
+* [On beyond Gruber:“Ontologies” in today’s biomedical information systems and the limits of OWL.](https://www.sciencedirect.com/science/article/pii/S2590177X19300010) Alan Rector, Stefan Schulz, Jean Marie Rodrigues, Christopher G. Chute, and Harold Solbrig. Journal of Biomedical Informatics: X 2 (2019): 100002.
 * The [opengalen.org](https://www.opengalen.org/) websitee contains a lot of background and links to more informaton.
-* [On beyond Gruber:“Ontologies” in today’s biomedical information systems and the limits of OWL. Rector, Alan, Stefan Schulz, Jean Marie Rodrigues, Christopher G. Chute, and Harold Solbrig. Journal of Biomedical Informatics: X 2 (2019): 100002.](https://www.sciencedirect.com/science/article/pii/S2590177X19300010)
 
 ## Snomed CT Expo 2021 talk
 * At [SNOMED CT Expo 2021](https://www.snomed.org/news-and-events/events/snomedct-expo) Daniel Karlsson and Erik Sundvall presented the PEN & PAD inspired talk "Context-aware interactive use of SNOMED CT and terminology services in openEHR-based electronic health records"
