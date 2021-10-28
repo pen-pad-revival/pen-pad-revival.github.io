@@ -32,7 +32,7 @@ To be notified of new uploads, subscribe to the pen-pad-revival YouTube channel 
     * Video recording will be available at the [SNOMED CT Expo website](https://www.snomed.org/news-and-events/events/snomedct-expo)
 
 ## Help wanted
-* Experd/nerd-competence needed for exploring and documenting how the old windows XP based Clinergy demo can be installed and run in emulators on Linux and Windows 10+
+* Experd/nerd-competence needed for exploring and documenting how the old Windows XP based Clinergy demo can be installed and run in emulators on Linux, Mac OS and Windows 10+
 * Website editing
 * Creation of pedagogical material from interviews and PEN&PAD-related papers (focused video snippets, transcriptions, summaries, tutorials etc.) in order to inspire a new generation of developers, clinicians and informaticians to revive the PEN & PAD approach using the tools available today.
 
