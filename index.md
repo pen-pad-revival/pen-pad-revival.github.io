@@ -24,7 +24,7 @@ To be notified of new uploads, subscribe to the pen-pad-revival YouTube channel 
 ## Papers and links
 * [The PEN&PAD data entry system: from prototype to practical system
 J Kirby 1, A L Rector](https://pubmed.ncbi.nlm.nih.gov/8947757/)
-* 
+* The [opengalen.org](https://www.opengalen.org/) websitee contains a lot of background and links to more informaton.
 
 ## Snomed CT Expo 2021 talk
 * At [SNOMED CT Expo 2021](https://www.snomed.org/news-and-events/events/snomedct-expo) Daniel Karlsson and Erik Sundvall presented the PEN & PAD inspired talk "Context-aware interactive use of SNOMED CT and terminology services in openEHR-based electronic health records"
