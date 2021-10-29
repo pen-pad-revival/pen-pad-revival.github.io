@@ -30,6 +30,8 @@ To be notified of new uploads, subscribe to the pen-pad-revival YouTube channel 
 * At [SNOMED CT Expo 2021](https://www.snomed.org/news-and-events/events/snomedct-expo) Daniel Karlsson and Erik Sundvall presented the PEN & PAD inspired talk "Context-aware interactive use of SNOMED CT and terminology services in openEHR-based electronic health records"
     * Slides: [https://docs.google.com/presentation/d/1BQxf-2NGhoFjlYEdRCdNoBWtUAS1qpn0/edit?usp=sharing&ouid=112660550613841635682&rtpof=true&sd=true](https://docs.google.com/presentation/d/1BQxf-2NGhoFjlYEdRCdNoBWtUAS1qpn0/edit?usp=sharing&ouid=112660550613841635682&rtpof=true&sd=true) 
     * Video recording will be available at the [SNOMED CT Expo website](https://www.snomed.org/news-and-events/events/snomedct-expo)
+    * Thanks to [Better](https://www.better.care/) for providing free trial access to [EHR Studio](https://playground.better.care/studio/) Low/No-code openEHR tool.
+    * Thanks to [Håkan Örman](https://liu.se/en/employee/hakpe59) for providing remote login to a working Clinergy demo installation at Linköping University (It is still used in teaching!)
 
 ## Help wanted
 * Experd/nerd-competence needed for exploring and documenting how the old Windows XP based Clinergy demo can be installed and run in emulators on Linux, Mac OS and Windows 10+
