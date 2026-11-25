@@ -3,7 +3,7 @@ Nordic Hackathon 2026, PEN&PAD-26 bonus track · Nimloth
 
 One coded record of Arne's functional status — entered by the clinician or by Arne himself, sanctioned by SNOMED CT, stored in openEHR, sent as an EPS document — and read by every receiver in their own language.
 
-**Live demo:** https://penpad.nimloth.se (clinician mode) · https://penpad.nimloth.se/patient/ (patient mode). Open during the hackathon, rate-limited.
+**Live demo:** [https://penpad.nimloth.se](https://penpad.nimloth.se) (clinician mode) · [https://penpad.nimloth.se/patient/](https://penpad.nimloth.se/patient/) (patient mode). Open during the hackathon, rate-limited.
 **Contact:** Anders Carlius, Northfactor AB — [e-post fylls i av Anders]
 
 ## The gap we aimed at
