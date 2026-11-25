@@ -1,5 +1,17 @@
 # Dynamic Clinical Documentation in Primary Care
 
+## Contact
+
+Marek Czajkowski, maroczajkowski@gmail.com
+General practitioner, Avesta, Sweden
+
+
+## Running the prototype
+Live demo: [https://pen-pad-revival.github.io/challenge/dynamic-primary-care-documentation/](https://pen-pad-revival.github.io/challenge/dynamic-primary-care-documentation/)
+
+If you want to try locally then download `index.html` and open it in a modern web browser.
+No installation, server, database or external service is required.
+
 ## Prototype: Pre-filtered Infection Clinic – Acute Otitis Media Case
 
 This proof of concept explores when dynamic, terminology-driven documentation can reduce documentation burden in primary care without unnecessarily constraining the clinical encounter.
@@ -88,14 +100,4 @@ No real patient data are used.
 
 ![04-clinical-note-and-structured-data.PNG](04-clinical-note-and-structured-data.PNG)
 
-## Running the prototype
 
-Download `index.html` and open it in a modern web browser.
-
-No installation, server, database or external service is required.
-
-## Contact
-
-Marek Czajkowski, maroczajkowski@gmail.com
-
-General practitioner, Avesta, Sweden
