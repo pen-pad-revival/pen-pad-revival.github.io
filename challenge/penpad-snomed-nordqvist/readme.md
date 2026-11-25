@@ -2,7 +2,7 @@
 SNOMED CT decides the options; outputs for openEHR and FHIR; optional local AI and speech in the browser
 
 Made by Gunnar Nordqvist · [GitHub](https://github.com/gunnarnordqvist) · [LinkedIn](https://www.linkedin.com/in/gunnarnordqvist) · [books.geon.se](https://books.geon.se)  
-**Live demo:** https://gunnarnordqvist.github.io/Hack/ · **Source:** https://github.com/gunnarnordqvist/Hack/tree/main/penpad-snomed
+**Live demo:** [https://gunnarnordqvist.github.io/Hack/](https://gunnarnordqvist.github.io/Hack/) · **Source code:** [https://github.com/gunnarnordqvist/Hack/tree/main/penpad-snomed](https://github.com/gunnarnordqvist/Hack/tree/main/penpad-snomed)
 
 ## Idea
 The terminology decides, the model only suggests. The user types or dictates free text, or points at a body map. Candidate findings come from SNOMED CT ECL sets on a FHIR terminology server (HL7 Nordics `tx-nordics.fhir.org`), and the app asks only for the details a finding allows, for example side only when the body site is lateralizable. No code is ever invented by a model.
