@@ -5,6 +5,8 @@
 Marek Czajkowski, maroczajkowski@gmail.com
 General practitioner, Avesta, Sweden
 
+## Info and screenshots 
+[https://github.com/pen-pad-revival/pen-pad-revival.github.io/blob/main/challenge/dynamic-primary-care-documentation/README.md](https://github.com/pen-pad-revival/pen-pad-revival.github.io/blob/main/challenge/dynamic-primary-care-documentation/README.md)
 
 ## Running the prototype
 Live demo: [https://pen-pad-revival.github.io/challenge/dynamic-primary-care-documentation/](https://pen-pad-revival.github.io/challenge/dynamic-primary-care-documentation/)
